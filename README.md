@@ -13,6 +13,8 @@ Few gifs of outputs:
 
 ![](https://1.bp.blogspot.com/-aTLb-Gnz3mg/XkwW03gZWNI/AAAAAAAAR94/4nAoCAKTDiMRBGE8GQEsQgl8bPsZhVQAQCLcBGAsYHQ/s320/sent_gif2.gif)
 
+## Suggestion:
+Run nltk20 and then nltk21 python files.
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
