@@ -8,7 +8,7 @@ Few gifs of outputs:
 1. Just type in the keyword whose sentiment you want:
 
 ![](https://github.com/bsaiashish/Sentimental-Analysis-from-LIVE-Twitter-Feed/blob/master/twitter_senti_analysis/sent_gif.gif)
-1. LIVE feed from Twiter is fetched and LIVE graph is shown:
+1. LIVE feed from Twiter is fetched and LIVE graph is shown corresponding to the keyword:
 
 ![](https://github.com/bsaiashish/Sentimental-Analysis-from-LIVE-Twitter-Feed/blob/master/twitter_senti_analysis/sent_gif2.gif)
 
