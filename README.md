@@ -9,7 +9,7 @@ Few gifs of outputs:
 
 ![](https://1.bp.blogspot.com/-tfHfAvCpvXk/XkwWzpy8clI/AAAAAAAAR90/llIk_CV5bz0QxQDPCUi2XyNYXFCC_qZhQCLcBGAsYHQ/s320/sent_gif.gif)
 
-2: LIVE feed from Twiter is fetched and LIVE graph is shown corresponding to the keyword:
+2: LIVE feed from Twitter is fetched and LIVE graph is shown corresponding to the keyword:
 
 ![](https://1.bp.blogspot.com/-aTLb-Gnz3mg/XkwW03gZWNI/AAAAAAAAR94/4nAoCAKTDiMRBGE8GQEsQgl8bPsZhVQAQCLcBGAsYHQ/s320/sent_gif2.gif)
 
