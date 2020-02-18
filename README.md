@@ -22,3 +22,4 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ## Acknowledgements
 
+HUGE HUGE THANKS TO SENTDEX AND HIS AMAZING YOUTUBE PROGRAMMING CHANNEL(SENTDEX) FOR THE TUTORIAL...THE CODE AND THE THE ENTIRE PROJECT WAS DONE BECAUSE OF HIS HELP!
