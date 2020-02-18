@@ -7,10 +7,10 @@ This project uses NLP (Natural Language Processing) to plot a real time graph fo
 Few gifs of outputs:
 1. Just type in the keyword whose sentiment you want:
 
-![](https://github.com/bsaiashish/Sentimental-Analysis-from-LIVE-Twitter-Feed/blob/master/twitter_senti_analysis/sent_gif.gif)
+![](https://1.bp.blogspot.com/-tfHfAvCpvXk/XkwWzpy8clI/AAAAAAAAR90/llIk_CV5bz0QxQDPCUi2XyNYXFCC_qZhQCLcBGAsYHQ/s320/sent_gif.gif)
 1. LIVE feed from Twiter is fetched and LIVE graph is shown corresponding to the keyword:
 
-![](https://github.com/bsaiashish/Sentimental-Analysis-from-LIVE-Twitter-Feed/blob/master/twitter_senti_analysis/sent_gif2.gif)
+![](https://1.bp.blogspot.com/-aTLb-Gnz3mg/XkwW03gZWNI/AAAAAAAAR94/4nAoCAKTDiMRBGE8GQEsQgl8bPsZhVQA)
 
 
 ## Contributing
