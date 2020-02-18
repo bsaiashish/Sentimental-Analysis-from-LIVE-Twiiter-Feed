@@ -6,9 +6,9 @@ This project uses NLP (Natural Language Processing) to plot a real time graph fo
 
 Few gifs of outputs:
 1. Just type in the keyword whose sentiment you want:
-![](https://github.com/soumyasanyal/DeepQLearning/blob/master/img1.gif)
+![](https://github.com/bsaiashish/Sentimental-Analysis-from-LIVE-Twitter-Feed/blob/master/twitter_senti_analysis/sent_gif.gif)
 1. LIVE feed from Twiter is fetched and LIVE graph is shown:
-![](https://github.com/soumyasanyal/DeepQLearning/blob/master/img2.gif)
+![](https://github.com/bsaiashish/Sentimental-Analysis-from-LIVE-Twitter-Feed/blob/master/twitter_senti_analysis/sent_gif2.gif)
 
 
 ## Contributing
