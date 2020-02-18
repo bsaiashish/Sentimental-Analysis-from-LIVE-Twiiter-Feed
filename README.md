@@ -4,6 +4,12 @@ This project uses NLP (Natural Language Processing) to plot a real time graph fo
 
 ## INTRODUCTION
 
+Few gifs of outputs:
+1. Just type in the keyword whose sentiment you want:
+![](https://github.com/soumyasanyal/DeepQLearning/blob/master/img1.gif)
+1. LIVE feed from Twiter is fetched and LIVE graph is shown:
+![](https://github.com/soumyasanyal/DeepQLearning/blob/master/img2.gif)
+
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
